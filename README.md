@@ -5,9 +5,11 @@
 - My primary interest is basketball (NBA - Go Warriors!)🏀, and am also passionate about computer programming (R, Python) 
   I try to combine the two, with the hope of becoming an analyst for an NBA team in the future!
 
+- In my free time I focus on analytics & viz projects centered on NBA basketball
+
 - 📫 How to reach me:
   - https://davidetissino.com
-  - davidetissi on X
+  - https://x.com/davidetissi
   - davidetissino2@gmail.com
 
 
