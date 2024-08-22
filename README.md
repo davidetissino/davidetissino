@@ -7,8 +7,8 @@
 - In my free time I focus on analytics & viz projects centered on NBA basketball
 
 - 📫 How to reach me:
-  - https://davidetissino.com
-  - https://x.com/davidetissi
-  - davidetissino2@gmail.com
+  - Portfolio website: https://davidetissino.com
+  - Twitter/X: https://x.com/davidetissi
+  - Mail: davidetissino2@gmail.com
 
 
