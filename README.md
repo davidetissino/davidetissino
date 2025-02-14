@@ -5,8 +5,8 @@ I have recently graduated with a BSc in International Economics and Management a
 Being an avid NBA basketball 🏀 fan, in my free time I pursue projects which combine my love for the game with my data analytics and visualization skills, trying to strengthen my skills as well as produce interesting insights on today's basketball. 
 
 Feel free to reach me at: 
-- @davidetissi on X
+- [Twitter](https://x.com/davidetissi)
 - davidetissino2@gmail.com
-- https://www.linkedin.com/in/davidetissino/ 
+- [LinkedIn](https://www.linkedin.com/in/davidetissino/)
 
 
