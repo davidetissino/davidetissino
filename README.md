@@ -2,9 +2,11 @@
 
 I'm Davide! 
 
-I graduated in November 2024 with a Bachelor of Science in International Economics and Management at Bocconi University, in Milan 🇮🇹. Subsequently, I embarked on a one-year internship as a Data Analyst for Levi Strauss & Co. in its Milan office. 
-
-Now I am pursuing a Specialising Master in Business Analytics and Data Science at Politecnico di Milano Graduate School of Management. I plan to graduate this upcoming November 2026, and am actively looking for internships as a Data/ML Scientist. 
+A few things about me: 
+  - Graduated in November 2024 in International Economics and Management (BSc) from Bocconi University
+  - Embarked on a one-year internship as a Data Analyst for Levi Strauss & Co. in its Milan office
+  - Decided I wanted to get more technical: pursued a Specializing Master in Business Analytics and Data Science at PoliMi GSoM
+  - Currently working as a Data Analyst Intern at Amplifon, supporting data readiness and E2E integrations in the Global Master Data team
 
 Being an avid NBA basketball 🏀 fan, in my free time I pursue projects which combine my love for the game with my data analytics and visualization skills, trying to strengthen my skills as well as produce interesting insights on today's basketball. 
 
